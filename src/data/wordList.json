@@ -1,0 +1,254 @@
+{
+  "words": [
+    {
+      "id" : 1,
+      "word": "Strawberry",
+      "translate" : "trái dâu"
+    },
+    {
+      "id" : 2,
+      "word": "Ketchup",
+      "translate" : "tương cà"
+    },
+    {
+      "id" : 3,
+      "word": "Toothpaste",
+      "translate" : "kem đánh răng"
+    },
+    {
+      "id" : 4,
+      "word": "Lemon",
+      "translate" : "Chanh"
+    },
+    {
+      "id" : 5,
+      "word": "Young buffalo",
+      "translate" : "Trẻ Trâu"
+    },
+    {
+      "id" : 6,
+      "word": "Tuesday",
+      "translate" : "Người thứ 3, con giáp thứ 13, trà xanh, etc"
+    },
+    {
+      "id" : 7,
+      "word": "Japan",
+      "translate" : "Nhật Bản"
+    },
+    {
+      "id" : 8,
+      "word": "Desert",
+      "translate" : "Sa mạc"
+    },
+    {
+      "id" : 9,
+      "word": "Sleep",
+      "translate" : "Đi ngủ"
+    },
+    {
+      "id" : 10,
+      "word": "Angry",
+      "translate" : "Giận dữ"
+    },
+    {
+      "id" : 11,
+      "word": "Bikini",
+      "translate" : "Bikini ( đồ bơi )"
+    },
+    {
+      "id" : 12,
+      "word": "",
+      "translate" : "Cà khịa"
+    },
+    {
+      "id" : 13,
+      "word": "Shower",
+      "translate" : "Đi tắm"
+    },
+    {
+      "id" : 14,
+      "word": "Ship",
+      "translate" : "Tàu, Thuyền"
+    },
+    {
+      "id" : 15,
+      "word": "Apple",
+      "translate" : "Táo"
+    },
+    {
+      "id" : 16,
+      "word": "Thailand",
+      "translate" : "Thái Lan"
+    },
+    {
+      "id" : 17,
+      "word": "France",
+      "translate" : "Pháp"
+    },
+    {
+      "id" : 18,
+      "word": "",
+      "translate" : "Cà khịa"
+    },
+    {
+      "id" : 19,
+      "word": "",
+      "translate" : "Sao kê"
+    },
+    {
+      "id" : 20,
+      "word": "",
+      "translate" : "Còn cái nịt"
+    },
+    {
+      "id" : 21,
+      "word": "",
+      "translate" : "Tấm chiếu mới"
+    },
+    {
+      "id" : 22,
+      "word": "",
+      "translate" : "Nhà phải có nóc"
+    },
+    {
+      "id" : 23,
+      "word": "",
+      "translate" : "Nhà bao việc"
+    },
+    {
+      "id" : 24,
+      "word": "Vampire",
+      "translate" : "Ma cà rồng"
+    },
+    {
+      "id" : 25,
+      "word": "",
+      "translate" : "Chi Pu"
+    },
+    {
+      "id" : 26,
+      "word": "",
+      "translate" : "Mỹ Tâm"
+    },
+    {
+      "id" : 27,
+      "word": "Plane",
+      "translate" : "Máy bay"
+    },
+    {
+      "id" : 28,
+      "word": "Campuchia",
+      "translate" : "Campuchia"
+    },
+    {
+      "id" : 29,
+      "word": "Salary",
+      "translate" : "Lương, lúa"
+    },
+    {
+      "id" : 30,
+      "word": "Coffee",
+      "translate" : "Cà phê"
+    },
+    {
+      "id" : 31,
+      "word": "Sun",
+      "translate" : "Mặt trời"
+    },
+    {
+      "id" : 32,
+      "word": "Bed",
+      "translate" : "Giường ngủ"
+    },
+    {
+      "id" : 33,
+      "word": "Soccer",
+      "translate" : "Bóng đá"
+    },
+    {
+      "id" : 34,
+      "word": "Tiger",
+      "translate" : "Con cọp"
+    },
+    {
+      "id" : 35,
+      "word": "Tiger beer",
+      "translate" : "Bia tiger"
+    },
+    {
+      "id" : 36,
+      "word": "",
+      "translate" : "Táo Quân"
+    },
+    {
+      "id" : 37,
+      "word": "",
+      "translate" : "Tết"
+    },
+    {
+      "id" : 38,
+      "word": "",
+      "translate" : "Lì xì"
+    },
+    {
+      "id" : 39,
+      "word": "",
+      "translate" : "Bánh bao"
+    },
+    {
+      "id" : 40,
+      "word": "",
+      "translate" : "Đà Lạt"
+    },
+    {
+      "id" : 41,
+      "word": "",
+      "translate" : "Hà Nội"
+    },
+    {
+      "id" : 42,
+      "word": "",
+      "translate" : "Sài Gòn"
+    },
+    {
+      "id" : 43,
+      "word": "",
+      "translate" : "Nha Trang"
+    },
+    {
+      "id" : 44,
+      "word": "",
+      "translate" : "Phú Quốc"
+    },
+    {
+      "id" : 45,
+      "word": "Car",
+      "translate" : "Xe hơi"
+    },
+    {
+      "id" : 46,
+      "word": "Singapore",
+      "translate" : "Singapore"
+    },
+    {
+      "id" : 47,
+      "word": "KOI",
+      "translate" : "Trà sữa KOI"
+    },
+    {
+      "id" : 48,
+      "word": "Cat",
+      "translate" : "Mèo"
+    },
+    {
+      "id" : 49,
+      "word": "Egypt",
+      "translate" : "Ai Cập"
+    },
+    {
+      "id" : 50,
+      "word": "Badminton",
+      "translate" : "Cần lông"
+    }
+  ]
+}
